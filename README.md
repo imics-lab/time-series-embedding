@@ -1,9 +1,11 @@
-# A Comprehensive Evaluation of Time Series Embedding Methods for Classification Tasks
+## A Comprehensive Evaluation of Time Series Embedding Methods for Classification Tasks
 
 [![Python 3.12](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/release/python-312/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://img.shields.io/badge/DOI-10.1111/exsy.70148-blue.svg)](https://doi.org/10.1111/exsy.70148)
 [![arXiv](https://img.shields.io/badge/arXiv-2501.13392-b31b1b.svg)](https://arxiv.org/abs/2501.13392)
 
+**Published in:** *Expert Systems* (Wiley)
 
 This repository implements various time series embedding methods and provides a framework for quantitative evaluation of these methods on classification tasks. It allows researchers to compare different embedding techniques based on their theoretical foundations and empirical performance.
 
@@ -189,13 +191,18 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Citation
 
 ```bibtex
-@misc{irani2025timeseriesembeddingmethods,
-      title={Time Series Embedding Methods for Classification Tasks: A Review}, 
-      author={Habib Irani and Yasamin Ghahremani and Arshia Kermani and Vangelis Metsis},
-      year={2025},
-      eprint={2501.13392},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2501.13392}, 
+@article{irani2025time,
+   title={Time series embedding methods for classification tasks: A review},
+   author={Irani, Habib and Ghahremani, Yasamin and Kermani, Arshia and Metsis, Vangelis},
+   journal={Expert Systems},
+   volume={42},
+   number={11},
+   pages={e70148},
+   year={2025},
+   publisher={Wiley Online Library}
 }
 ```
+
+**Paper Links:**
+- Journal Article: https://onlinelibrary.wiley.com/doi/full/10.1111/exsy.70148
+- arXiv Preprint: https://arxiv.org/abs/2501.13392
